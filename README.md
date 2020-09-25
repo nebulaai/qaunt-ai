@@ -16,3 +16,7 @@ Social media are gold mines of public opinion on any given topics. Such data can
 ## Filecoin with AI
 Decentralized  applications  require  distributed  file  storage  systems  to  store  data. An  option  is the  Fileocin  storage  system  to  replace  the  traditional  centralized  cloud storage or local file storage, in order to achieve better distributed storage. Quant AI can storage the large twitter data, onchian data and sentiment data to Filecoin network for mutliloation access.
 ![AI with Filecoin](ai_cloud.png?raw=true "AI with Filecoin")
+
+## Project Video
+
+https://www.youtube.com/watch?time_continue=135&v=tLx2tE1YaMY&feature=emb_title
