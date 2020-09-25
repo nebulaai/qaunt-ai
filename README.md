@@ -19,4 +19,4 @@ Decentralized  applications  require  distributed  file  storage  systems  to  s
 
 ## Project Video
 
-https://www.youtube.com/watch?time_continue=135&v=tLx2tE1YaMY&feature=emb_title
+https://youtu.be/tLx2tE1YaMY
